@@ -1,0 +1,40 @@
+    
+  h1 {
+    font-size: 65px;
+    color: orange;
+       }
+   .List-style {
+     background-color: white
+   }
+   
+   h1 {
+      font-family: sans-serif;
+      text-decoration: underline;
+      font-style: oblique;
+      text-align: center;
+      color: royalblue;
+  }
+  p {
+      font-weight: 600;
+      font-size: 3em;
+      font-style: oblique;
+      color: teal;
+      text-align: center;
+  }
+  body {
+      font-size: 16px;
+  }
+  #Amarelo {
+      background-color: yellow;
+  }
+  #Vermelho {
+      background-color: red;
+  }
+  #Marrom {
+      background-color: brown;
+  }
+
+    
+     
+      
+    
