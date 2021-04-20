@@ -1,0 +1,41 @@
+#PáginaInicial li {
+  display: inline-block;
+  padding: 10px;
+  color: antiquewhite;
+  text-decoration: none;
+  
+}
+
+section {
+    padding-right: 50%;
+    padding: 5px;
+    font-size: 150%;
+    color: indigo;
+
+}
+#Photo1 {
+    float: right;
+    width: 200px;
+    position: absolute;
+    top: 235px;
+    left: 600px;
+    border-radius: 70%;
+    
+}
+ a {
+     display: inline-block;
+     text-decoration: none;
+     color: antiquewhite;
+     background-color: rgb(112, 90, 128);
+     padding: 5px;
+     border-radius: 20%;
+   }
+
+   #Photo2 {
+       border-radius: 70%;
+   }
+
+   div {
+       line-height: 25px;
+   }
+   
