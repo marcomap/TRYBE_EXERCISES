@@ -1,0 +1,36 @@
+/*-- Exercícios:
+- Posicione o Mário acima do Goomba.
+- Posicione a tag p para que fique dentro do balão de fala.
+- Posicione o balão para que se torne uma fala de Bowser.
+- Posicione os elementos para que tenham alguma distância entre si.
+*/
+.super-mario {
+    position: absolute;
+    z-index: 1;
+    top: 100px;
+}
+
+.goomba {
+    position: absolute;
+    z-index: 2;
+    top: 1280px;
+}
+
+.bowser {
+    position: absolute;
+    z-index: 3;
+    top: 2800px;
+    left: 250px;
+}
+.baloon {
+    position: absolute;
+    z-index: 4;
+    top: 2800px;
+}
+
+p {
+    position: absolute;
+    z-index: 5;
+    top: 2850px;
+    left: 70px;
+}
